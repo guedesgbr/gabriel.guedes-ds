@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ParOuImpar {
+public class Exercício1 {
     public static void main(String[] args) {
         System.out.print(" Digite O Número Inteiro: ");
         int numero = new Scanner(System.in).nextInt();
